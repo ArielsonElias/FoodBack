@@ -130,3 +130,135 @@ C:\Users\ariel\source\repos\FoodBack Web\FoodBack Web\obj\Debug\FoodBack Web.dll
 C:\Users\ariel\source\repos\FoodBack Web\FoodBack Web\obj\Debug\FoodBack Web.pdb
 C:\Users\ariel\source\repos\FoodBack Web\FoodBack Web\obj\Debug\FoodBack_Web.Migrations.Perfil.resources
 C:\Users\ariel\source\repos\FoodBack Web\FoodBack Web\obj\Debug\FoodBack Web.csproj.GenerateResource.cache
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\ApplicationInsights.config
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\FoodBack Web.dll.config
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\FoodBack Web.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\FoodBack Web.pdb
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\csc.exe
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\csc.exe.config
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\csc.rsp
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\csi.exe
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\csi.exe.config
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\csi.rsp
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.AppContext.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Console.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\vbc.exe
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\vbc.exe.config
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\vbc.rsp
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Antlr3.Runtime.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\EntityFramework.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.Web.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Newtonsoft.Json.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Owin.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Helpers.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Mvc.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Optimization.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Razor.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.WebPages.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\WebGrease.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Helpers.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Mvc.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Optimization.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.Razor.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.WebPages.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Newtonsoft.Json.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Antlr3.Runtime.pdb
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\EntityFramework.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.AI.Web.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csprojAssemblyReference.cache
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack_Web.Migrations.Perfil.resources
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csproj.GenerateResource.cache
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csproj.CopyComplete
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.dll
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.pdb
