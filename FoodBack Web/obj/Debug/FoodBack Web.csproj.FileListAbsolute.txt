@@ -262,3 +262,4 @@ C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csp
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csproj.CopyComplete
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.dll
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.pdb
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack_Web.Migrations.Pedido.resources
