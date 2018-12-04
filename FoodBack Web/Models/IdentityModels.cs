@@ -47,5 +47,7 @@ namespace FoodBack_Web.Models
         public System.Data.Entity.DbSet<FoodBack_Web.Models.Restaurante> Restaurantes { get; set; }
 
         public System.Data.Entity.DbSet<FoodBack_Web.Models.Produto> Produtoes { get; set; }
+
+        public System.Data.Entity.DbSet<FoodBack_Web.Models.ItensPedido> ItensPedidoes { get; set; }
     }
 }

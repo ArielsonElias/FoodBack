@@ -255,11 +255,11 @@ C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\System.Web.WebPa
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\Microsoft.AspNet.Identity.Core.resources.dll
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\Microsoft.AspNet.Identity.Owin.resources.dll
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\bin\pt-br\Microsoft.AspNet.Identity.EntityFramework.resources.dll
-C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csprojAssemblyReference.cache
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack_Web.Migrations.Perfil.resources
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csproj.GenerateResource.cache
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csproj.CoreCompileInputs.cache
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csproj.CopyComplete
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.dll
 C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.pdb
-C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack_Web.Migrations.Pedido.resources
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack Web.csprojAssemblyReference.cache
+C:\Users\ariel\Documents\GitHub\FoodBack\FoodBack Web\obj\Debug\FoodBack_Web.Migrations.Alteraçõesestruturaisparaosrelacionamentos.resources

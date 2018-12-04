@@ -197,9 +197,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-    <Compile Include="Controllers\PedidoesController.cs" />
-    <Compile Include="Controllers\ProdutoesController.cs" />
-    <Compile Include="Controllers\RestaurantesController.cs" />
+    <Compile Include="Controllers\PedidosController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -207,13 +205,15 @@
     <Compile Include="Migrations\201811062158322_Perfil.Designer.cs">
       <DependentUpon>201811062158322_Perfil.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201811270035562_Pedido.cs" />
-    <Compile Include="Migrations\201811270035562_Pedido.Designer.cs">
-      <DependentUpon>201811270035562_Pedido.cs</DependentUpon>
+    <Compile Include="Migrations\201812032331351_Alterações estruturais para os relacionamentos.cs" />
+    <Compile Include="Migrations\201812032331351_Alterações estruturais para os relacionamentos.Designer.cs">
+      <DependentUpon>201812032331351_Alterações estruturais para os relacionamentos.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\ItemPedidoViewModel.cs" />
+    <Compile Include="Models\ItensPedido.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Pedido.cs" />
     <Compile Include="Models\Produto.cs" />
@@ -281,21 +281,11 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Account\AlterarPerfil.cshtml" />
-    <Content Include="Views\Pedidoes\Create.cshtml" />
-    <Content Include="Views\Pedidoes\Delete.cshtml" />
-    <Content Include="Views\Pedidoes\Details.cshtml" />
-    <Content Include="Views\Pedidoes\Edit.cshtml" />
-    <Content Include="Views\Pedidoes\Index.cshtml" />
-    <Content Include="Views\Produtoes\Create.cshtml" />
-    <Content Include="Views\Produtoes\Delete.cshtml" />
-    <Content Include="Views\Produtoes\Details.cshtml" />
-    <Content Include="Views\Produtoes\Edit.cshtml" />
-    <Content Include="Views\Produtoes\Index.cshtml" />
-    <Content Include="Views\Restaurantes\Create.cshtml" />
-    <Content Include="Views\Restaurantes\Delete.cshtml" />
-    <Content Include="Views\Restaurantes\Details.cshtml" />
-    <Content Include="Views\Restaurantes\Edit.cshtml" />
-    <Content Include="Views\Restaurantes\Index.cshtml" />
+    <Content Include="Views\Pedidos\Create.cshtml" />
+    <Content Include="Views\Pedidos\Delete.cshtml" />
+    <Content Include="Views\Pedidos\Details.cshtml" />
+    <Content Include="Views\Pedidos\Edit.cshtml" />
+    <Content Include="Views\Pedidos\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -317,8 +307,8 @@
     <EmbeddedResource Include="Migrations\201811062158322_Perfil.resx">
       <DependentUpon>201811062158322_Perfil.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201811270035562_Pedido.resx">
-      <DependentUpon>201811270035562_Pedido.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201812032331351_Alterações estruturais para os relacionamentos.resx">
+      <DependentUpon>201812032331351_Alterações estruturais para os relacionamentos.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
